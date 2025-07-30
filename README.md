@@ -31,7 +31,7 @@ A clean and functional to-do list desktop application built with Python and Tkin
 4. Run the app:
 
 ### 📁 Option 2: As a Standalone (.exe)
-download from releases.
+
 
 🛠️ Built With
 Python 3
