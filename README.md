@@ -41,7 +41,7 @@ Tkinter GUI Toolkit
 datetime module
 
 🚀 Author
-Canaan Pollard
+CanaanDev4
 Aspiring software developer — passionate about learning Python and building real-world apps.
 
 🤝 License
